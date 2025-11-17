@@ -1,6 +1,6 @@
 # Nmap Basic Scan
 
-**Date: 11/16/25 **  
+11/16/25 
 **Purpose:** Practice running basic Nmap scans in a safe lab environment.
 
 ---
