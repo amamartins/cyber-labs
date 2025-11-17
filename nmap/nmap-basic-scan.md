@@ -14,7 +14,7 @@ nmap -sC -sV <target-ip>
 ## What Each Flag Means
 - `-sC` : runs default scripts  
 - `-sV` : detects service versions  
-- `<target-ip>` : the system being scanned (in my isolated lab)
+- `192.168.56.1` : the system being scanned (in my isolated lab)
 
 ---
 
