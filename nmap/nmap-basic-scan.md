@@ -23,8 +23,21 @@ nmap -sC -sV <target-ip>
 
 
 ---
+Update -- more commands I learned
+
+nmap -A __targetip__
+## Output
+
+<img width="955" height="439" alt="nmap -A" src="https://github.com/user-attachments/assets/bb205beb-df90-493b-84a5-51544d88cb2d" />
+
+nmap -p 22,80,443 __targetip__ - to view specific ports
+## Output
+
+<img width="566" height="170" alt="nmap -p" src="https://github.com/user-attachments/assets/6290ad71-16d2-4edd-bc12-2a406b2359b9" />
 
 ## What I Learned
-- How to run a safe, basic Nmap scan  
+- How to run a safe, basic Nmap scan
+- How to complete an aggresive scan
 - How to identify open ports  
-- How to read service version info  
+- How to read service version info
+- Enumerated exposed services and identified 
