@@ -3,6 +3,7 @@
 11/16/25 
 **Purpose:** Practice running basic Nmap scans in a safe lab environment.
 
+Updated: 2/16/26 to test additional commands
 ---
 
 ## Command Used
