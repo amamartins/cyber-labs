@@ -41,4 +41,4 @@ nmap -p 22,80,443 __targetip__ - to view specific ports
 - How to complete an aggresive scan
 - How to identify open ports  
 - How to read service version info
-- Enumerated exposed services and identified 
+- Enumerated exposed services and identified potential attack surfaces
