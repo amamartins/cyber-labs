@@ -1,2 +1,2 @@
 # cyber-labs
-Hands-on cyber labs (Nmap, Masscan, Wireshark, etc.)
+old cyber labs i did in the beginning of my journey -- don't take these two seriously
